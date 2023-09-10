@@ -1,5 +1,5 @@
 # dumbster
-Zips all files from Recycle Bin and uploads them to Discord via webhook.
+Zip all files from Recycle Bin and uploads them to Discord via webhook.
 
 > [!IMPORTANT]
 > You must change line 14 "DiscordWebhook" to your webhook.
